@@ -1,0 +1,664 @@
+Abi-Dalzim's Horrid Wilting|https://www.dndbeyond.com/spells/2367-abi-dalzims-horrid-wilting
+Absorb Elements|https://www.dndbeyond.com/spells/2368-absorb-elements
+Acid Splash|https://www.dndbeyond.com/spells/2618844-acid-splash
+Aganazzar's Scorcher|https://www.dndbeyond.com/spells/2369-aganazzars-scorcher
+Aid|https://www.dndbeyond.com/spells/2618845-aid
+Air Bubble|https://www.dndbeyond.com/spells/1585025-air-bubble
+Alarm|https://www.dndbeyond.com/spells/2619222-alarm
+Alter Self|https://www.dndbeyond.com/spells/2618846-alter-self
+Ambush Prey|https://www.dndbeyond.com/spells/2294143-ambush-prey
+Animal Friendship|https://www.dndbeyond.com/spells/2618847-animal-friendship
+Animal Messenger|https://www.dndbeyond.com/spells/2618850-animal-messenger
+Animal Shapes|https://www.dndbeyond.com/spells/2618851-animal-shapes
+Animate Dead|https://www.dndbeyond.com/spells/2618853-animate-dead
+Animate Objects|https://www.dndbeyond.com/spells/2618855-animate-objects
+Antagonize|https://www.dndbeyond.com/spells/2158656-antagonize
+Antilife Shell|https://www.dndbeyond.com/spells/2618856-antilife-shell
+Antimagic Field|https://www.dndbeyond.com/spells/2618860-antimagic-field
+Antipathy/Sympathy|https://www.dndbeyond.com/spells/2618862-antipathy-sympathy
+Arboreal Curse|https://www.dndbeyond.com/spells/2196497-arboreal-curse
+Arcane Eye|https://www.dndbeyond.com/spells/2618863-arcane-eye
+Arcane Gate|https://www.dndbeyond.com/spells/2618865-arcane-gate
+Arcane Lock|https://www.dndbeyond.com/spells/2618868-arcane-lock
+Arcane Vigor|https://www.dndbeyond.com/spells/2618831-arcane-vigor
+Armor of Agathys|https://www.dndbeyond.com/spells/2618870-armor-of-agathys
+Arms of Hadar|https://www.dndbeyond.com/spells/2618871-arms-of-hadar
+Ashardalon's Stride|https://www.dndbeyond.com/spells/1183862-ashardalons-stride
+Astral Projection|https://www.dndbeyond.com/spells/2618878-astral-projection
+Augury|https://www.dndbeyond.com/spells/2618882-augury
+Aura of Life|https://www.dndbeyond.com/spells/2618884-aura-of-life
+Aura of Purity|https://www.dndbeyond.com/spells/2618888-aura-of-purity
+Aura of Vitality|https://www.dndbeyond.com/spells/2618891-aura-of-vitality
+Awaken|https://www.dndbeyond.com/spells/2618897-awaken
+Bane|https://www.dndbeyond.com/spells/2618900-bane
+Banishing Smite|https://www.dndbeyond.com/spells/2618904-banishing-smite
+Banishment|https://www.dndbeyond.com/spells/2618906-banishment
+Barkskin|https://www.dndbeyond.com/spells/2618907-barkskin
+Beacon of Hope|https://www.dndbeyond.com/spells/2618911-beacon-of-hope
+Beast Bond|https://www.dndbeyond.com/spells/2370-beast-bond
+Beast Sense|https://www.dndbeyond.com/spells/2618914-beast-sense
+Become Nightwing|https://www.dndbeyond.com/spells/1731165-become-nightwing
+Befuddlement|https://www.dndbeyond.com/spells/2618832-befuddlement
+Bestow Curse|https://www.dndbeyond.com/spells/2618923-bestow-curse
+Bigby's Hand|https://www.dndbeyond.com/spells/2618928-bigbys-hand
+Bitter Wind|https://www.dndbeyond.com/spells/1731064-bitter-wind
+Black Hand|https://www.dndbeyond.com/spells/1731160-black-hand
+Black Ribbons|https://www.dndbeyond.com/spells/1731156-black-ribbons
+Black Well|https://www.dndbeyond.com/spells/1731166-black-well
+Blade Barrier|https://www.dndbeyond.com/spells/2618929-blade-barrier
+Blade of Blood and Bone|https://www.dndbeyond.com/spells/1731065-blade-of-blood-and-bone
+Blade of Disaster|https://www.dndbeyond.com/spells/654072-blade-of-disaster
+Blade Ward|https://www.dndbeyond.com/spells/2618931-blade-ward
+Bless|https://www.dndbeyond.com/spells/2618933-bless
+Blight|https://www.dndbeyond.com/spells/2618934-blight
+Blinding Smite|https://www.dndbeyond.com/spells/2618936-blinding-smite
+Blindness/Deafness|https://www.dndbeyond.com/spells/2618938-blindness-deafness
+Blink|https://www.dndbeyond.com/spells/2618939-blink
+Bloodletter|https://www.dndbeyond.com/spells/1731119-bloodletter
+Blur|https://www.dndbeyond.com/spells/2618945-blur
+Bones of the Earth|https://www.dndbeyond.com/spells/2371-bones-of-the-earth
+Booming Blade|https://www.dndbeyond.com/spells/2410-booming-blade
+Borrowed Knowledge|https://www.dndbeyond.com/spells/1239802-borrowed-knowledge
+Bright Sparks|https://www.dndbeyond.com/spells/1731066-bright-sparks
+Burning Hands|https://www.dndbeyond.com/spells/2618946-burning-hands
+Burning Radiance|https://www.dndbeyond.com/spells/1731145-burning-radiance
+Call Lightning|https://www.dndbeyond.com/spells/2618949-call-lightning
+Call Shadow Mastiff|https://www.dndbeyond.com/spells/1731168-call-shadow-mastiff
+Calm Emotions|https://www.dndbeyond.com/spells/2618959-calm-emotions
+Catapult|https://www.dndbeyond.com/spells/2372-catapult
+Catnap|https://www.dndbeyond.com/spells/14754-catnap
+Cause Fear|https://www.dndbeyond.com/spells/14758-cause-fear
+Ceremony|https://www.dndbeyond.com/spells/14760-ceremony
+Chain Lightning|https://www.dndbeyond.com/spells/2618960-chain-lightning
+Chaos Bolt|https://www.dndbeyond.com/spells/14761-chaos-bolt
+Charm Monster|https://www.dndbeyond.com/spells/2618963-charm-monster
+Charm Person|https://www.dndbeyond.com/spells/2618964-charm-person
+Charnel Banquet|https://www.dndbeyond.com/spells/1731067-charnel-banquet
+Child of Light and Darkness|https://www.dndbeyond.com/spells/1731068-child-of-light-and-darkness
+Chill Touch|https://www.dndbeyond.com/spells/2618965-chill-touch
+Chromatic Orb|https://www.dndbeyond.com/spells/2618966-chromatic-orb
+Circle of Death|https://www.dndbeyond.com/spells/2618969-circle-of-death
+Circle of Power|https://www.dndbeyond.com/spells/2618970-circle-of-power
+Clairvoyance|https://www.dndbeyond.com/spells/2618972-clairvoyance
+Claws of Darkness|https://www.dndbeyond.com/spells/1731153-claws-of-darkness
+Cloak of Shadow|https://www.dndbeyond.com/spells/2515156-cloak-of-shadow
+Clone|https://www.dndbeyond.com/spells/2618973-clone
+Cloud of Daggers|https://www.dndbeyond.com/spells/2618974-cloud-of-daggers
+Cloudkill|https://www.dndbeyond.com/spells/2618976-cloudkill
+Color Spray|https://www.dndbeyond.com/spells/2618978-color-spray
+Command|https://www.dndbeyond.com/spells/2618985-command
+Commune|https://www.dndbeyond.com/spells/2618987-commune
+Commune with Nature|https://www.dndbeyond.com/spells/2618989-commune-with-nature
+Compelled Duel|https://www.dndbeyond.com/spells/2618990-compelled-duel
+Comprehend Languages|https://www.dndbeyond.com/spells/2618993-comprehend-languages
+Compulsion|https://www.dndbeyond.com/spells/2619041-compulsion
+Cone of Cold|https://www.dndbeyond.com/spells/2619042-cone-of-cold
+Confusion|https://www.dndbeyond.com/spells/2619043-confusion
+Conjure Animals|https://www.dndbeyond.com/spells/2619044-conjure-animals
+Conjure Barrage|https://www.dndbeyond.com/spells/2619045-conjure-barrage
+Conjure Celestial|https://www.dndbeyond.com/spells/2619046-conjure-celestial
+Conjure Elemental|https://www.dndbeyond.com/spells/2619047-conjure-elemental
+Conjure Ferryman|https://www.dndbeyond.com/spells/1731069-conjure-ferryman
+Conjure Fey|https://www.dndbeyond.com/spells/2619048-conjure-fey
+Conjure Giant|https://www.dndbeyond.com/spells/1731070-conjure-giant
+Conjure Minor Elementals|https://www.dndbeyond.com/spells/2619049-conjure-minor-elementals
+Conjure Shadow Titan|https://www.dndbeyond.com/spells/1731169-conjure-shadow-titan
+Conjure the Deep Haze|https://www.dndbeyond.com/spells/2221547-conjure-the-deep-haze
+Conjure Volley|https://www.dndbeyond.com/spells/2619050-conjure-volley
+Conjure Woodland Beings|https://www.dndbeyond.com/spells/2619051-conjure-woodland-beings
+Consume Mind|https://www.dndbeyond.com/spells/2196498-consume-mind
+Contact Other Plane|https://www.dndbeyond.com/spells/2619052-contact-other-plane
+Contagion|https://www.dndbeyond.com/spells/2619063-contagion
+Contaminated Power|https://www.dndbeyond.com/spells/2221548-contaminated-power
+Contamination Immunity|https://www.dndbeyond.com/spells/2221549-contamination-immunity
+Contingency|https://www.dndbeyond.com/spells/2619053-contingency
+Continual Flame|https://www.dndbeyond.com/spells/2619065-continual-flame
+Control Flames|https://www.dndbeyond.com/spells/2374-control-flames
+Control Water|https://www.dndbeyond.com/spells/2619070-control-water
+Control Weather|https://www.dndbeyond.com/spells/2619054-control-weather
+Control Winds|https://www.dndbeyond.com/spells/2375-control-winds
+Cordon of Arrows|https://www.dndbeyond.com/spells/2619055-cordon-of-arrows
+Counterspell|https://www.dndbeyond.com/spells/2619072-counterspell
+Create Bonfire|https://www.dndbeyond.com/spells/2373-create-bonfire
+Create Food and Water|https://www.dndbeyond.com/spells/2619073-create-food-and-water
+Create Homunculus|https://www.dndbeyond.com/spells/14765-create-homunculus
+Create Magen|https://www.dndbeyond.com/spells/654073-create-magen
+Create or Destroy Water|https://www.dndbeyond.com/spells/2619074-create-or-destroy-water
+Create Spelljamming Helm|https://www.dndbeyond.com/spells/1585026-create-spelljamming-helm
+Create Undead|https://www.dndbeyond.com/spells/2619076-create-undead
+Creation|https://www.dndbeyond.com/spells/2619077-creation
+Creeping Darkness|https://www.dndbeyond.com/spells/1731173-creeping-darkness
+Creeping Touch|https://www.dndbeyond.com/spells/1731120-creeping-touch
+Crown of Madness|https://www.dndbeyond.com/spells/2619056-crown-of-madness
+Crown of Radiance|https://www.dndbeyond.com/spells/1731121-crown-of-radiance
+Crown of Stars|https://www.dndbeyond.com/spells/14827-crown-of-stars
+Crusader's Mantle|https://www.dndbeyond.com/spells/2619057-crusaders-mantle
+Cure Wounds|https://www.dndbeyond.com/spells/2619079-cure-wounds
+Dancing Lights|https://www.dndbeyond.com/spells/2619058-dancing-lights
+Danse Macabre|https://www.dndbeyond.com/spells/14830-danse-macabre
+Dark Dementing|https://www.dndbeyond.com/spells/1731163-dark-dementing
+Dark Path|https://www.dndbeyond.com/spells/1731161-dark-path
+Dark Star|https://www.dndbeyond.com/spells/416800-dark-star
+Darkbolt|https://www.dndbeyond.com/spells/2515163-darkbolt
+Darkness|https://www.dndbeyond.com/spells/2619080-darkness
+Darkvision|https://www.dndbeyond.com/spells/2619082-darkvision
+Dawn|https://www.dndbeyond.com/spells/14831-dawn
+Daylight|https://www.dndbeyond.com/spells/2619083-daylight
+Death Ward|https://www.dndbeyond.com/spells/2619085-death-ward
+Deep Roots of the Moon|https://www.dndbeyond.com/spells/1731071-deep-roots-of-the-moon
+Delayed Blast Fireball|https://www.dndbeyond.com/spells/2619086-delayed-blast-fireball
+Delerium Blast|https://www.dndbeyond.com/spells/2221550-delerium-blast
+Delerium Orb|https://www.dndbeyond.com/spells/2221551-delerium-orb
+Demiplane|https://www.dndbeyond.com/spells/2619088-demiplane
+Destructive Wave|https://www.dndbeyond.com/spells/2619089-destructive-wave
+Detect Evil and Good|https://www.dndbeyond.com/spells/2619090-detect-evil-and-good
+Detect Magic|https://www.dndbeyond.com/spells/2619097-detect-magic
+Detect Poison and Disease|https://www.dndbeyond.com/spells/2619093-detect-poison-and-disease
+Detect Thoughts|https://www.dndbeyond.com/spells/2619099-detect-thoughts
+Dimension Door|https://www.dndbeyond.com/spells/2619100-dimension-door
+Disguise Self|https://www.dndbeyond.com/spells/2619102-disguise-self
+Disintegrate|https://www.dndbeyond.com/spells/2619094-disintegrate
+Dispel Evil and Good|https://www.dndbeyond.com/spells/2619096-dispel-evil-and-good
+Dispel Magic|https://www.dndbeyond.com/spells/2619103-dispel-magic
+Dissonant Whispers|https://www.dndbeyond.com/spells/2619104-dissonant-whispers
+Distort Value|https://www.dndbeyond.com/spells/188092-distort-value
+Divination|https://www.dndbeyond.com/spells/2619140-divination
+Divine Favor|https://www.dndbeyond.com/spells/2619142-divine-favor
+Divine Smite|https://www.dndbeyond.com/spells/2618833-divine-smite
+Divine Word|https://www.dndbeyond.com/spells/2619144-divine-word
+Dominate Beast|https://www.dndbeyond.com/spells/2619146-dominate-beast
+Dominate Monster|https://www.dndbeyond.com/spells/2619147-dominate-monster
+Dominate Person|https://www.dndbeyond.com/spells/2619148-dominate-person
+Doom of False Friends|https://www.dndbeyond.com/spells/1731072-doom-of-false-friends
+Doom of Poor Fortune|https://www.dndbeyond.com/spells/1731073-doom-of-poor-fortune
+Doom of Stacked Stones|https://www.dndbeyond.com/spells/1731074-doom-of-stacked-stones
+Doom of Summer Years|https://www.dndbeyond.com/spells/1731075-doom-of-summer-years
+Douse Light|https://www.dndbeyond.com/spells/2515160-douse-light
+Draconic Transformation|https://www.dndbeyond.com/spells/1183863-draconic-transformation
+Dragon's Breath|https://www.dndbeyond.com/spells/2619150-dragons-breath
+Drawmij's Instant Summons|https://www.dndbeyond.com/spells/2619154-drawmijs-instant-summons
+Drayfn's Bane of Excellence|https://www.dndbeyond.com/spells/1731076-drayfns-bane-of-excellence
+Drayfn's Blunted Blade|https://www.dndbeyond.com/spells/1731077-drayfns-blunted-blade
+Drayfn's Curse of Incompetence|https://www.dndbeyond.com/spells/1731078-drayfns-curse-of-incompetence
+Dream|https://www.dndbeyond.com/spells/2619156-dream
+Dream of the Blue Veil|https://www.dndbeyond.com/spells/717915-dream-of-the-blue-veil
+Drizzle|https://www.dndbeyond.com/spells/1731079-drizzle
+Druid Grove|https://www.dndbeyond.com/spells/14834-druid-grove
+Druidcraft|https://www.dndbeyond.com/spells/2619158-druidcraft
+Dust Devil|https://www.dndbeyond.com/spells/2376-dust-devil
+Dying of the Light|https://www.dndbeyond.com/spells/1731171-dying-of-the-light
+Earth Tremor|https://www.dndbeyond.com/spells/2378-earth-tremor
+Earthbind|https://www.dndbeyond.com/spells/2377-earthbind
+Earthquake|https://www.dndbeyond.com/spells/2619160-earthquake
+Ebon Tide|https://www.dndbeyond.com/spells/1731080-ebon-tide
+Eldritch Blast|https://www.dndbeyond.com/spells/2619161-eldritch-blast
+Elemental Bane|https://www.dndbeyond.com/spells/2379-elemental-bane
+Elemental Weapon|https://www.dndbeyond.com/spells/2619164-elemental-weapon
+Elementalism|https://www.dndbeyond.com/spells/2618834-elementalism
+Elevated Sight|https://www.dndbeyond.com/spells/2294144-elevated-sight
+Elf Shot|https://www.dndbeyond.com/spells/1731081-elf-shot
+Emerald Goblet|https://www.dndbeyond.com/spells/1731082-emerald-goblet
+Encode Thoughts|https://www.dndbeyond.com/spells/83532-encode-thoughts
+Enemies Abound|https://www.dndbeyond.com/spells/14836-enemies-abound
+Enervation|https://www.dndbeyond.com/spells/14869-enervation
+Enhance Ability|https://www.dndbeyond.com/spells/2619165-enhance-ability
+Enlarge/Reduce|https://www.dndbeyond.com/spells/2619170-enlarge-reduce
+Ensnaring Strike|https://www.dndbeyond.com/spells/2619172-ensnaring-strike
+Entangle|https://www.dndbeyond.com/spells/2619186-entangle
+Enthrall|https://www.dndbeyond.com/spells/2619192-enthrall
+Erupting Earth|https://www.dndbeyond.com/spells/2380-erupting-earth
+Etherealness|https://www.dndbeyond.com/spells/2619193-etherealness
+Evard's Black Tentacles|https://www.dndbeyond.com/spells/2619187-evards-black-tentacles
+Expeditious Retreat|https://www.dndbeyond.com/spells/2619189-expeditious-retreat
+Eyebite|https://www.dndbeyond.com/spells/2619191-eyebite
+Fabricate|https://www.dndbeyond.com/spells/2618848-fabricate
+Faerie Fire|https://www.dndbeyond.com/spells/2618858-faerie-fire
+Faerie Toast|https://www.dndbeyond.com/spells/1731083-faerie-toast
+False Life|https://www.dndbeyond.com/spells/2618866-false-life
+Far Step|https://www.dndbeyond.com/spells/14870-far-step
+Fast Friends|https://www.dndbeyond.com/spells/188104-fast-friends
+Fear|https://www.dndbeyond.com/spells/2618872-fear
+Feast of Flesh|https://www.dndbeyond.com/spells/1731084-feast-of-flesh
+Feather Fall|https://www.dndbeyond.com/spells/2618874-feather-fall
+Feathered Reach|https://www.dndbeyond.com/spells/2294145-feathered-reach
+Feign Death|https://www.dndbeyond.com/spells/2618873-feign-death
+Find Familiar|https://www.dndbeyond.com/spells/2618877-find-familiar
+Find Greater Steed|https://www.dndbeyond.com/spells/14871-find-greater-steed
+Find Steed|https://www.dndbeyond.com/spells/2618879-find-steed
+Find the Path|https://www.dndbeyond.com/spells/2618881-find-the-path
+Find Traps|https://www.dndbeyond.com/spells/2618883-find-traps
+Finger of Death|https://www.dndbeyond.com/spells/2618885-finger-of-death
+Fire Bolt|https://www.dndbeyond.com/spells/2618890-fire-bolt
+Fire Dance|https://www.dndbeyond.com/spells/1731085-fire-dance
+Fire Shield|https://www.dndbeyond.com/spells/2618894-fire-shield
+Fire Storm|https://www.dndbeyond.com/spells/2618896-fire-storm
+Fireball|https://www.dndbeyond.com/spells/2618887-fireball
+Fireflies|https://www.dndbeyond.com/spells/1731086-fireflies
+Fizban's Platinum Shield|https://www.dndbeyond.com/spells/1183864-fizbans-platinum-shield
+Flame Arrows|https://www.dndbeyond.com/spells/2381-flame-arrows
+Flame Blade|https://www.dndbeyond.com/spells/2618899-flame-blade
+Flame Strike|https://www.dndbeyond.com/spells/2618920-flame-strike
+Flaming Sphere|https://www.dndbeyond.com/spells/2618919-flaming-sphere
+Flense|https://www.dndbeyond.com/spells/1731122-flense
+Flesh to Stone|https://www.dndbeyond.com/spells/2618905-flesh-to-stone
+Flock of Familiars|https://www.dndbeyond.com/spells/92691-flock-of-familiars
+Flowering|https://www.dndbeyond.com/spells/1731087-flowering
+Fly|https://www.dndbeyond.com/spells/2618909-fly
+Fog Cloud|https://www.dndbeyond.com/spells/2618910-fog-cloud
+Forbiddance|https://www.dndbeyond.com/spells/2618913-forbiddance
+Forcecage|https://www.dndbeyond.com/spells/2618916-forcecage
+Forced Evolution|https://www.dndbeyond.com/spells/2221552-forced-evolution
+Foresight|https://www.dndbeyond.com/spells/2618918-foresight
+Fortune's Favor|https://www.dndbeyond.com/spells/176232-fortunes-favor
+Fount of Moonlight|https://www.dndbeyond.com/spells/2618835-fount-of-moonlight
+Freedom of Movement|https://www.dndbeyond.com/spells/2618921-freedom-of-movement
+Freedom of the Waves|https://www.dndbeyond.com/spells/1343136-freedom-of-the-waves
+Freedom of the Winds|https://www.dndbeyond.com/spells/1343171-freedom-of-the-winds
+Friends|https://www.dndbeyond.com/spells/2618924-friends
+Frost Fingers|https://www.dndbeyond.com/spells/654074-frost-fingers
+Frostbite|https://www.dndbeyond.com/spells/2382-frostbite
+Galder's Speedy Courier|https://www.dndbeyond.com/spells/92692-galders-speedy-courier
+Galder's Tower|https://www.dndbeyond.com/spells/92693-galders-tower
+Gaseous Form|https://www.dndbeyond.com/spells/2618927-gaseous-form
+Gate|https://www.dndbeyond.com/spells/2618932-gate
+Gate Seal|https://www.dndbeyond.com/spells/2119578-gate-seal
+Geas|https://www.dndbeyond.com/spells/2618940-geas
+Gentle Repose|https://www.dndbeyond.com/spells/2618942-gentle-repose
+Giant Insect|https://www.dndbeyond.com/spells/2618944-giant-insect
+Gift of Alacrity|https://www.dndbeyond.com/spells/176233-gift-of-alacrity
+Gift of Gab|https://www.dndbeyond.com/spells/188118-gift-of-gab
+Glibness|https://www.dndbeyond.com/spells/2618948-glibness
+Gloaming|https://www.dndbeyond.com/spells/1731091-gloaming
+Globe of Invulnerability|https://www.dndbeyond.com/spells/2618950-globe-of-invulnerability
+Globe of Twilight|https://www.dndbeyond.com/spells/2294146-globe-of-twilight
+Glyph of Warding|https://www.dndbeyond.com/spells/2618951-glyph-of-warding
+Goodberry|https://www.dndbeyond.com/spells/2618952-goodberry
+Grasping Vine|https://www.dndbeyond.com/spells/2618955-grasping-vine
+Gravity Fissure|https://www.dndbeyond.com/spells/416801-gravity-fissure
+Gravity Sinkhole|https://www.dndbeyond.com/spells/416802-gravity-sinkhole
+Grease|https://www.dndbeyond.com/spells/2618957-grease
+Greater Invisibility|https://www.dndbeyond.com/spells/2618958-greater-invisibility
+Greater Restoration|https://www.dndbeyond.com/spells/2618961-greater-restoration
+Green-Flame Blade|https://www.dndbeyond.com/spells/2411-green-flame-blade
+Grim Harvest|https://www.dndbeyond.com/spells/1731092-grim-harvest
+Grim Shadows|https://www.dndbeyond.com/spells/1731093-grim-shadows
+Guardian of Faith|https://www.dndbeyond.com/spells/2619135-guardian-of-faith
+Guardian of Nature|https://www.dndbeyond.com/spells/14872-guardian-of-nature
+Guards and Wards|https://www.dndbeyond.com/spells/2618968-guards-and-wards
+Guidance|https://www.dndbeyond.com/spells/2618971-guidance
+Guiding Bolt|https://www.dndbeyond.com/spells/2619136-guiding-bolt
+Gust|https://www.dndbeyond.com/spells/2383-gust
+Gust Barrier|https://www.dndbeyond.com/spells/2294147-gust-barrier
+Gust of Wind|https://www.dndbeyond.com/spells/2619137-gust-of-wind
+Hail of Thorns|https://www.dndbeyond.com/spells/2618975-hail-of-thorns
+Hallow|https://www.dndbeyond.com/spells/2619138-hallow
+Hallucinatory Terrain|https://www.dndbeyond.com/spells/2619139-hallucinatory-terrain
+Harm|https://www.dndbeyond.com/spells/2618977-harm
+Haste|https://www.dndbeyond.com/spells/2619141-haste
+Heal|https://www.dndbeyond.com/spells/2618979-heal
+Healing Spirit|https://www.dndbeyond.com/spells/14873-healing-spirit
+Healing Word|https://www.dndbeyond.com/spells/2619143-healing-word
+Heartseeker|https://www.dndbeyond.com/spells/2196499-heartseeker
+Heat Metal|https://www.dndbeyond.com/spells/2619145-heat-metal
+Hellish Rebuke|https://www.dndbeyond.com/spells/2619149-hellish-rebuke
+Hero of Fable|https://www.dndbeyond.com/spells/1731094-hero-of-fable
+Heroes' Feast|https://www.dndbeyond.com/spells/2618983-heroes-feast
+Heroism|https://www.dndbeyond.com/spells/2619151-heroism
+Hex|https://www.dndbeyond.com/spells/2618988-hex
+Hibernation|https://www.dndbeyond.com/spells/1731095-hibernation
+Hide in One's Shadow|https://www.dndbeyond.com/spells/1731162-hide-in-ones-shadow
+Hold Monster|https://www.dndbeyond.com/spells/2619152-hold-monster
+Hold Person|https://www.dndbeyond.com/spells/2619153-hold-person
+Holy Aura|https://www.dndbeyond.com/spells/2619155-holy-aura
+Holy Weapon|https://www.dndbeyond.com/spells/14874-holy-weapon
+Holy Word|https://www.dndbeyond.com/spells/1731123-holy-word
+Hunger of Hadar|https://www.dndbeyond.com/spells/2619162-hunger-of-hadar
+Hunter Sense|https://www.dndbeyond.com/spells/2196500-hunter-sense
+Hunter's Mark|https://www.dndbeyond.com/spells/2619166-hunters-mark
+Hypnotic Pattern|https://www.dndbeyond.com/spells/2619168-hypnotic-pattern
+Ice Knife|https://www.dndbeyond.com/spells/2619171-ice-knife
+Ice Storm|https://www.dndbeyond.com/spells/2619178-ice-storm
+Identify|https://www.dndbeyond.com/spells/2619180-identify
+Illusory Dragon|https://www.dndbeyond.com/spells/14876-illusory-dragon
+Illusory Script|https://www.dndbeyond.com/spells/2619173-illusory-script
+Immolation|https://www.dndbeyond.com/spells/2385-immolation
+Immovable Object|https://www.dndbeyond.com/spells/416803-immovable-object
+Imprisonment|https://www.dndbeyond.com/spells/2619175-imprisonment
+Incendiary Cloud|https://www.dndbeyond.com/spells/2619177-incendiary-cloud
+Incite Greed|https://www.dndbeyond.com/spells/188121-incite-greed
+Infernal Calling|https://www.dndbeyond.com/spells/14877-infernal-calling
+Infestation|https://www.dndbeyond.com/spells/14878-infestation
+Inflict Wounds|https://www.dndbeyond.com/spells/2619181-inflict-wounds
+Insect Plague|https://www.dndbeyond.com/spells/2619183-insect-plague
+Intellect Fortress|https://www.dndbeyond.com/spells/718549-intellect-fortress
+Investiture of Flame|https://www.dndbeyond.com/spells/2386-investiture-of-flame
+Investiture of Ice|https://www.dndbeyond.com/spells/2387-investiture-of-ice
+Investiture of Stone|https://www.dndbeyond.com/spells/2388-investiture-of-stone
+Investiture of Wind|https://www.dndbeyond.com/spells/2389-investiture-of-wind
+Invisibility|https://www.dndbeyond.com/spells/2619116-invisibility
+Invoke the Amaranthine|https://www.dndbeyond.com/spells/2294148-invoke-the-amaranthine
+Invulnerability|https://www.dndbeyond.com/spells/14879-invulnerability
+Jallarzi's Storm of Radiance|https://www.dndbeyond.com/spells/2618836-jallarzis-storm-of-radiance
+Jim's Glowing Coin|https://www.dndbeyond.com/spells/188126-jims-glowing-coin
+Jim's Magic Missile|https://www.dndbeyond.com/spells/188129-jims-magic-missile
+Jump|https://www.dndbeyond.com/spells/2618991-jump
+Kinetic Jaunt|https://www.dndbeyond.com/spells/1239803-kinetic-jaunt
+Knife of Fate|https://www.dndbeyond.com/spells/1731096-knife-of-fate
+Knock|https://www.dndbeyond.com/spells/2618992-knock
+Krail's Maggot|https://www.dndbeyond.com/spells/1731097-krails-maggot
+Krail's Rot|https://www.dndbeyond.com/spells/1731098-krails-rot
+Krail's Rupture|https://www.dndbeyond.com/spells/1731099-krails-rupture
+Legend Lore|https://www.dndbeyond.com/spells/2619010-legend-lore
+Leiloch's Arduous Shuffle|https://www.dndbeyond.com/spells/1731100-leilochs-arduous-shuffle
+Leiloch's Interminable Yarn|https://www.dndbeyond.com/spells/1731101-leilochs-interminable-yarn
+Leiloch's Irritating Kazoo|https://www.dndbeyond.com/spells/1731102-leilochs-irritating-kazoo
+Leomund's Secret Chest|https://www.dndbeyond.com/spells/2619012-leomunds-secret-chest
+Leomund's Tiny Hut|https://www.dndbeyond.com/spells/2619013-leomunds-tiny-hut
+Lesser Restoration|https://www.dndbeyond.com/spells/2619016-lesser-restoration
+Levitate|https://www.dndbeyond.com/spells/2618994-levitate
+Life Drain|https://www.dndbeyond.com/spells/1731148-life-drain
+Life Tether|https://www.dndbeyond.com/spells/1731124-life-tether
+Life Transference|https://www.dndbeyond.com/spells/14880-life-transference
+Light|https://www.dndbeyond.com/spells/2618996-light
+Lightning Arrow|https://www.dndbeyond.com/spells/2618997-lightning-arrow
+Lightning Bolt|https://www.dndbeyond.com/spells/2618999-lightning-bolt
+Lightning Lure|https://www.dndbeyond.com/spells/2412-lightning-lure
+Living Shadows|https://www.dndbeyond.com/spells/1731149-living-shadows
+Locate Animals or Plants|https://www.dndbeyond.com/spells/2619000-locate-animals-or-plants
+Locate Creature|https://www.dndbeyond.com/spells/2619001-locate-creature
+Locate Object|https://www.dndbeyond.com/spells/2619002-locate-object
+Longstrider|https://www.dndbeyond.com/spells/2619004-longstrider
+Lost|https://www.dndbeyond.com/spells/1731103-lost
+Lost and Wandering|https://www.dndbeyond.com/spells/1731104-lost-and-wandering
+Lunar Transfer|https://www.dndbeyond.com/spells/1731105-lunar-transfer
+Maddening Darkness|https://www.dndbeyond.com/spells/14881-maddening-darkness
+Maddening Whispers|https://www.dndbeyond.com/spells/1731150-maddening-whispers
+Maelstrom|https://www.dndbeyond.com/spells/2390-maelstrom
+Mage Armor|https://www.dndbeyond.com/spells/2619006-mage-armor
+Mage Hand|https://www.dndbeyond.com/spells/2619008-mage-hand
+Magic Circle|https://www.dndbeyond.com/spells/2619018-magic-circle
+Magic Jar|https://www.dndbeyond.com/spells/2619021-magic-jar
+Magic Mirror|https://www.dndbeyond.com/spells/2196501-magic-mirror
+Magic Missile|https://www.dndbeyond.com/spells/2619022-magic-missile
+Magic Mouth|https://www.dndbeyond.com/spells/2619023-magic-mouth
+Magic Stone|https://www.dndbeyond.com/spells/2391-magic-stone
+Magic Weapon|https://www.dndbeyond.com/spells/2619024-magic-weapon
+Magnify Gravity|https://www.dndbeyond.com/spells/416804-magnify-gravity
+Major Image|https://www.dndbeyond.com/spells/2619025-major-image
+Mass Cure Wounds|https://www.dndbeyond.com/spells/2619026-mass-cure-wounds
+Mass Heal|https://www.dndbeyond.com/spells/2619027-mass-heal
+Mass Healing Word|https://www.dndbeyond.com/spells/2619028-mass-healing-word
+Mass Polymorph|https://www.dndbeyond.com/spells/14882-mass-polymorph
+Mass Suggestion|https://www.dndbeyond.com/spells/2619029-mass-suggestion
+Maximilian's Earthen Grasp|https://www.dndbeyond.com/spells/2392-maximilians-earthen-grasp
+Maze|https://www.dndbeyond.com/spells/2619030-maze
+Meld into Stone|https://www.dndbeyond.com/spells/2619031-meld-into-stone
+Melf's Acid Arrow|https://www.dndbeyond.com/spells/2619032-melfs-acid-arrow
+Melf's Minute Meteors|https://www.dndbeyond.com/spells/2393-melfs-minute-meteors
+Mending|https://www.dndbeyond.com/spells/2619033-mending
+Mental Prison|https://www.dndbeyond.com/spells/14883-mental-prison
+Message|https://www.dndbeyond.com/spells/2619034-message
+Meteor Swarm|https://www.dndbeyond.com/spells/2619035-meteor-swarm
+Mighty Fortress|https://www.dndbeyond.com/spells/14474-mighty-fortress
+Mind Blank|https://www.dndbeyond.com/spells/2619036-mind-blank
+Mind Sliver|https://www.dndbeyond.com/spells/2619037-mind-sliver
+Mind Spike|https://www.dndbeyond.com/spells/2619038-mind-spike
+Minor Illusion|https://www.dndbeyond.com/spells/2619039-minor-illusion
+Mirage Arcane|https://www.dndbeyond.com/spells/2619040-mirage-arcane
+Mirror Image|https://www.dndbeyond.com/spells/2619060-mirror-image
+Mislead|https://www.dndbeyond.com/spells/2619131-mislead
+Misty Step|https://www.dndbeyond.com/spells/2619133-misty-step
+Modify Memory|https://www.dndbeyond.com/spells/2619109-modify-memory
+Mold Earth|https://www.dndbeyond.com/spells/2394-mold-earth
+Moonbeam|https://www.dndbeyond.com/spells/2619134-moonbeam
+Moonlight Sending|https://www.dndbeyond.com/spells/1731106-moonlight-sending
+Mordenkainen's Faithful Hound|https://www.dndbeyond.com/spells/2619110-mordenkainens-faithful-hound
+Mordenkainen's Magnificent Mansion|https://www.dndbeyond.com/spells/2619112-mordenkainens-magnificent-mansion
+Mordenkainen's Private Sanctum|https://www.dndbeyond.com/spells/2619114-mordenkainens-private-sanctum
+Mordenkainen's Sword|https://www.dndbeyond.com/spells/2619118-mordenkainens-sword
+Motivational Speech|https://www.dndbeyond.com/spells/188142-motivational-speech
+Move Earth|https://www.dndbeyond.com/spells/2619120-move-earth
+Nathair's Mischief|https://www.dndbeyond.com/spells/1183865-nathairs-mischief
+Negative Energy Flood|https://www.dndbeyond.com/spells/14519-negative-energy-flood
+Negative Image|https://www.dndbeyond.com/spells/1731164-negative-image
+Neutralizing Field|https://www.dndbeyond.com/spells/2221553-neutralizing-field
+Nondetection|https://www.dndbeyond.com/spells/2619122-nondetection
+Nystul's Magic Aura|https://www.dndbeyond.com/spells/2619124-nystuls-magic-aura
+Obfuscate Object|https://www.dndbeyond.com/spells/1731107-obfuscate-object
+Octarine Spray|https://www.dndbeyond.com/spells/2221554-octarine-spray
+Ominous Winds|https://www.dndbeyond.com/spells/1731108-ominous-winds
+Orros Mark of Fate|https://www.dndbeyond.com/spells/1731109-orros-mark-of-fate
+Otiluke's Freezing Sphere|https://www.dndbeyond.com/spells/2619126-otilukes-freezing-sphere
+Otiluke's Resilient Sphere|https://www.dndbeyond.com/spells/2619128-otilukes-resilient-sphere
+Otto's Irresistible Dance|https://www.dndbeyond.com/spells/2619130-ottos-irresistible-dance
+Pass without Trace|https://www.dndbeyond.com/spells/2618849-pass-without-trace
+Passwall|https://www.dndbeyond.com/spells/2618852-passwall
+Phantasmal Force|https://www.dndbeyond.com/spells/2618854-phantasmal-force
+Phantasmal Killer|https://www.dndbeyond.com/spells/2618857-phantasmal-killer
+Phantom Steed|https://www.dndbeyond.com/spells/2618859-phantom-steed
+Phoenix Flames|https://www.dndbeyond.com/spells/1731125-phoenix-flames
+Planar Ally|https://www.dndbeyond.com/spells/2618861-planar-ally
+Planar Binding|https://www.dndbeyond.com/spells/2618864-planar-binding
+Plane Shift|https://www.dndbeyond.com/spells/2618867-plane-shift
+Plant Growth|https://www.dndbeyond.com/spells/2618869-plant-growth
+Poison Spray|https://www.dndbeyond.com/spells/2618875-poison-spray
+Polychromatic Bubble|https://www.dndbeyond.com/spells/1731110-polychromatic-bubble
+Polymorph|https://www.dndbeyond.com/spells/2618876-polymorph
+Portho's Portal|https://www.dndbeyond.com/spells/1731111-porthos-portal
+Power Word Fortify|https://www.dndbeyond.com/spells/2618837-power-word-fortify
+Power Word Heal|https://www.dndbeyond.com/spells/2618880-power-word-heal
+Power Word Kill|https://www.dndbeyond.com/spells/2618886-power-word-kill
+Power Word Pain|https://www.dndbeyond.com/spells/14520-power-word-pain
+Power Word Stun|https://www.dndbeyond.com/spells/2618889-power-word-stun
+Pratfall|https://www.dndbeyond.com/spells/2515149-pratfall
+Prayer of Healing|https://www.dndbeyond.com/spells/2618892-prayer-of-healing
+Prestidigitation|https://www.dndbeyond.com/spells/2618893-prestidigitation
+Primal Savagery|https://www.dndbeyond.com/spells/14558-primal-savagery
+Primordial Ward|https://www.dndbeyond.com/spells/2395-primordial-ward
+Prismatic Spray|https://www.dndbeyond.com/spells/2618895-prismatic-spray
+Prismatic Wall|https://www.dndbeyond.com/spells/2618898-prismatic-wall
+Produce Flame|https://www.dndbeyond.com/spells/2618901-produce-flame
+Programmed Illusion|https://www.dndbeyond.com/spells/2618902-programmed-illusion
+Project Image|https://www.dndbeyond.com/spells/2618903-project-image
+Protection from Energy|https://www.dndbeyond.com/spells/2618908-protection-from-energy
+Protection from Evil and Good|https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good
+Protection from Poison|https://www.dndbeyond.com/spells/2618915-protection-from-poison
+Psychic Scream|https://www.dndbeyond.com/spells/14592-psychic-scream
+Pulse Wave|https://www.dndbeyond.com/spells/416805-pulse-wave
+Purge Contamination|https://www.dndbeyond.com/spells/2221555-purge-contamination
+Purify Food and Drink|https://www.dndbeyond.com/spells/2618917-purify-food-and-drink
+Pyrotechnics|https://www.dndbeyond.com/spells/2396-pyrotechnics
+Radiant Beacon|https://www.dndbeyond.com/spells/1731113-radiant-beacon
+Raise Dead|https://www.dndbeyond.com/spells/2618922-raise-dead
+Rary's Telepathic Bond|https://www.dndbeyond.com/spells/2618925-rarys-telepathic-bond
+Raulothim's Psychic Lance|https://www.dndbeyond.com/spells/1183866-raulothims-psychic-lance
+Ravenous Void|https://www.dndbeyond.com/spells/416806-ravenous-void
+Ray of Contamination|https://www.dndbeyond.com/spells/2221556-ray-of-contamination
+Ray of Enfeeblement|https://www.dndbeyond.com/spells/2618926-ray-of-enfeeblement
+Ray of Frost|https://www.dndbeyond.com/spells/2618930-ray-of-frost
+Ray of Sickness|https://www.dndbeyond.com/spells/2618935-ray-of-sickness
+Reality Break|https://www.dndbeyond.com/spells/416807-reality-break
+Regenerate|https://www.dndbeyond.com/spells/2618937-regenerate
+Reincarnate|https://www.dndbeyond.com/spells/2618941-reincarnate
+Remove Curse|https://www.dndbeyond.com/spells/2618943-remove-curse
+Resistance|https://www.dndbeyond.com/spells/2618947-resistance
+Resurrection|https://www.dndbeyond.com/spells/2618953-resurrection
+Reverse Gravity|https://www.dndbeyond.com/spells/2618954-reverse-gravity
+Revivify|https://www.dndbeyond.com/spells/2618956-revivify
+Ride the Lightning|https://www.dndbeyond.com/spells/1731126-ride-the-lightning
+Ride the Rifts|https://www.dndbeyond.com/spells/2221557-ride-the-rifts
+Rime's Binding Ice|https://www.dndbeyond.com/spells/1183867-rimes-binding-ice
+Rope Trick|https://www.dndbeyond.com/spells/2618962-rope-trick
+Sacrament of the Falling Fire|https://www.dndbeyond.com/spells/2221558-sacrament-of-the-falling-fire
+Sacred Flame|https://www.dndbeyond.com/spells/2618967-sacred-flame
+Sanctuary|https://www.dndbeyond.com/spells/2619003-sanctuary
+Sapping Sting|https://www.dndbeyond.com/spells/416808-sapping-sting
+Scatter|https://www.dndbeyond.com/spells/14593-scatter
+Scorching Ray|https://www.dndbeyond.com/spells/2619005-scorching-ray
+Scrying|https://www.dndbeyond.com/spells/2619007-scrying
+Searing Smite|https://www.dndbeyond.com/spells/2619009-searing-smite
+Searing Sun|https://www.dndbeyond.com/spells/1731146-searing-sun
+See Invisibility|https://www.dndbeyond.com/spells/2619011-see-invisibility
+Seeming|https://www.dndbeyond.com/spells/2619014-seeming
+Sending|https://www.dndbeyond.com/spells/2619015-sending
+Sequester|https://www.dndbeyond.com/spells/2618980-sequester
+Shadow Adaptation|https://www.dndbeyond.com/spells/1731114-shadow-adaptation
+Shadow Armor|https://www.dndbeyond.com/spells/1731157-shadow-armor
+Shadow Bite|https://www.dndbeyond.com/spells/1731154-shadow-bite
+Shadow Blade|https://www.dndbeyond.com/spells/14595-shadow-blade
+Shadow Blindness|https://www.dndbeyond.com/spells/1731155-shadow-blindness
+Shadow Gateway|https://www.dndbeyond.com/spells/2515157-shadow-gateway
+Shadow Hands|https://www.dndbeyond.com/spells/1731159-shadow-hands
+Shadow of Moil|https://www.dndbeyond.com/spells/14596-shadow-of-moil
+Shadow Portal|https://www.dndbeyond.com/spells/1731115-shadow-portal
+Shadow Puppets|https://www.dndbeyond.com/spells/1731167-shadow-puppets
+Shadow Step|https://www.dndbeyond.com/spells/2515158-shadow-step
+Shadow Tendrils|https://www.dndbeyond.com/spells/1731170-shadow-tendrils
+Shadow Trove|https://www.dndbeyond.com/spells/2533550-shadow-trove
+Shape Plants|https://www.dndbeyond.com/spells/2294149-shape-plants
+Shape Water|https://www.dndbeyond.com/spells/2397-shape-water
+Shapechange|https://www.dndbeyond.com/spells/2618982-shapechange
+Shatter|https://www.dndbeyond.com/spells/2619017-shatter
+Shield|https://www.dndbeyond.com/spells/2619019-shield
+Shield of Faith|https://www.dndbeyond.com/spells/2619020-shield-of-faith
+Shillelagh|https://www.dndbeyond.com/spells/2618984-shillelagh
+Shining Smite|https://www.dndbeyond.com/spells/2618838-shining-smite
+Shocking Grasp|https://www.dndbeyond.com/spells/2618986-shocking-grasp
+Sickening Radiance|https://www.dndbeyond.com/spells/14597-sickening-radiance
+Silence|https://www.dndbeyond.com/spells/2619061-silence
+Silent Image|https://www.dndbeyond.com/spells/2619062-silent-image
+Silvery Barbs|https://www.dndbeyond.com/spells/1239804-silvery-barbs
+Simulacrum|https://www.dndbeyond.com/spells/2618995-simulacrum
+Siphon Contamination|https://www.dndbeyond.com/spells/2221559-siphon-contamination
+Skill Empowerment|https://www.dndbeyond.com/spells/14599-skill-empowerment
+Skywrite|https://www.dndbeyond.com/spells/2398-skywrite
+Sleep|https://www.dndbeyond.com/spells/2619064-sleep
+Sleet Storm|https://www.dndbeyond.com/spells/2618998-sleet-storm
+Slither|https://www.dndbeyond.com/spells/2515159-slither
+Slow|https://www.dndbeyond.com/spells/2619066-slow
+Snare|https://www.dndbeyond.com/spells/14600-snare
+Snilloc's Snowball Swarm|https://www.dndbeyond.com/spells/2399-snillocs-snowball-swarm
+Sorcerous Burst|https://www.dndbeyond.com/spells/2618839-sorcerous-burst
+Soul Cage|https://www.dndbeyond.com/spells/14601-soul-cage
+Spare the Dying|https://www.dndbeyond.com/spells/2619067-spare-the-dying
+Speak with Animals|https://www.dndbeyond.com/spells/2619059-speak-with-animals
+Speak with Dead|https://www.dndbeyond.com/spells/2619068-speak-with-dead
+Speak with Plants|https://www.dndbeyond.com/spells/2619069-speak-with-plants
+Spider Climb|https://www.dndbeyond.com/spells/2619071-spider-climb
+Spider Song|https://www.dndbeyond.com/spells/1731116-spider-song
+Spike Growth|https://www.dndbeyond.com/spells/2619075-spike-growth
+Spiny Shield|https://www.dndbeyond.com/spells/2294150-spiny-shield
+Spirit Guardians|https://www.dndbeyond.com/spells/2619078-spirit-guardians
+Spirit of Death|https://www.dndbeyond.com/spells/2158657-spirit-of-death
+Spirit Shroud|https://www.dndbeyond.com/spells/718581-spirit-shroud
+Spirit Swarm|https://www.dndbeyond.com/spells/1731127-spirit-swarm
+Spiritual Weapon|https://www.dndbeyond.com/spells/2619081-spiritual-weapon
+Spray of Cards|https://www.dndbeyond.com/spells/2158658-spray-of-cards
+Staggering Smite|https://www.dndbeyond.com/spells/2619084-staggering-smite
+Starry Wisp|https://www.dndbeyond.com/spells/2618840-starry-wisp
+Steel Wind Strike|https://www.dndbeyond.com/spells/2619087-steel-wind-strike
+Stellar Bodies|https://www.dndbeyond.com/spells/2294151-stellar-bodies
+Stinking Cloud|https://www.dndbeyond.com/spells/2619091-stinking-cloud
+Stone Shape|https://www.dndbeyond.com/spells/2619092-stone-shape
+Stoneskin|https://www.dndbeyond.com/spells/2619095-stoneskin
+Storm Door|https://www.dndbeyond.com/spells/1731117-storm-door
+Storm of Vengeance|https://www.dndbeyond.com/spells/2619098-storm-of-vengeance
+Storm Sphere|https://www.dndbeyond.com/spells/2400-storm-sphere
+Suffocate|https://www.dndbeyond.com/spells/2196502-suffocate
+Suggestion|https://www.dndbeyond.com/spells/2619101-suggestion
+Summon Aberration|https://www.dndbeyond.com/spells/2619105-summon-aberration
+Summon Beast|https://www.dndbeyond.com/spells/2619106-summon-beast
+Summon Celestial|https://www.dndbeyond.com/spells/2619108-summon-celestial
+Summon Construct|https://www.dndbeyond.com/spells/2619111-summon-construct
+Summon Draconic Spirit|https://www.dndbeyond.com/spells/1183868-summon-draconic-spirit
+Summon Dragon|https://www.dndbeyond.com/spells/2618843-summon-dragon
+Summon Elemental|https://www.dndbeyond.com/spells/2619113-summon-elemental
+Summon Fey|https://www.dndbeyond.com/spells/2619115-summon-fey
+Summon Fiend|https://www.dndbeyond.com/spells/2619117-summon-fiend
+Summon Greater Demon|https://www.dndbeyond.com/spells/14603-summon-greater-demon
+Summon Lesser Demons|https://www.dndbeyond.com/spells/14604-summon-lesser-demons
+Summon Shadowspawn|https://www.dndbeyond.com/spells/719948-summon-shadowspawn
+Summon Undead|https://www.dndbeyond.com/spells/2619119-summon-undead
+Sunbeam|https://www.dndbeyond.com/spells/2619121-sunbeam
+Sunburst|https://www.dndbeyond.com/spells/2619123-sunburst
+Supernal Smite|https://www.dndbeyond.com/spells/1731128-supernal-smite
+Swift Quiver|https://www.dndbeyond.com/spells/2619125-swift-quiver
+Sword Burst|https://www.dndbeyond.com/spells/2413-sword-burst
+Symbol|https://www.dndbeyond.com/spells/2619127-symbol
+Synaptic Static|https://www.dndbeyond.com/spells/2619129-synaptic-static
+Tasha's Bubbling Cauldron|https://www.dndbeyond.com/spells/2618841-tashas-bubbling-cauldron
+Tasha's Caustic Brew|https://www.dndbeyond.com/spells/719953-tashas-caustic-brew
+Tasha's Hideous Laughter|https://www.dndbeyond.com/spells/2619132-tashas-hideous-laughter
+Tasha's Mind Whip|https://www.dndbeyond.com/spells/719959-tashas-mind-whip
+Tasha's Otherworldly Guise|https://www.dndbeyond.com/spells/719961-tashas-otherworldly-guise
+Telekinesis|https://www.dndbeyond.com/spells/2619157-telekinesis
+Telepathy|https://www.dndbeyond.com/spells/2619159-telepathy
+Teleport|https://www.dndbeyond.com/spells/2619163-teleport
+Teleportation Circle|https://www.dndbeyond.com/spells/2619167-teleportation-circle
+Temple of the Gods|https://www.dndbeyond.com/spells/14606-temple-of-the-gods
+Temporal Shunt|https://www.dndbeyond.com/spells/416809-temporal-shunt
+Tenser's Floating Disk|https://www.dndbeyond.com/spells/2619169-tensers-floating-disk
+Tenser's Transformation|https://www.dndbeyond.com/spells/14612-tensers-transformation
+Tether Essence|https://www.dndbeyond.com/spells/416810-tether-essence
+Thaumaturgy|https://www.dndbeyond.com/spells/2619174-thaumaturgy
+Thorn Whip|https://www.dndbeyond.com/spells/2619176-thorn-whip
+Thunder Step|https://www.dndbeyond.com/spells/14613-thunder-step
+Thunderclap|https://www.dndbeyond.com/spells/2619179-thunderclap
+Thunderous Smite|https://www.dndbeyond.com/spells/2619182-thunderous-smite
+Thunderwave|https://www.dndbeyond.com/spells/2619184-thunderwave
+Tidal Wave|https://www.dndbeyond.com/spells/2402-tidal-wave
+Time Ravage|https://www.dndbeyond.com/spells/416811-time-ravage
+Time Stop|https://www.dndbeyond.com/spells/2619185-time-stop
+Tiny Servant|https://www.dndbeyond.com/spells/14614-tiny-servant
+Toll the Dead|https://www.dndbeyond.com/spells/2619188-toll-the-dead
+Tongues|https://www.dndbeyond.com/spells/2619190-tongues
+Transmute Rock|https://www.dndbeyond.com/spells/2403-transmute-rock
+Transport via Plants|https://www.dndbeyond.com/spells/2619196-transport-via-plants
+Tree Stride|https://www.dndbeyond.com/spells/2619197-tree-stride
+True Polymorph|https://www.dndbeyond.com/spells/2619198-true-polymorph
+True Resurrection|https://www.dndbeyond.com/spells/2619199-true-resurrection
+True Seeing|https://www.dndbeyond.com/spells/2619201-true-seeing
+True Strike|https://www.dndbeyond.com/spells/2619204-true-strike
+Tsunami|https://www.dndbeyond.com/spells/2619206-tsunami
+Ugly Duckling|https://www.dndbeyond.com/spells/1731118-ugly-duckling
+Umbral Storm|https://www.dndbeyond.com/spells/1731172-umbral-storm
+Unseen Servant|https://www.dndbeyond.com/spells/2619209-unseen-servant
+Vampiric Touch|https://www.dndbeyond.com/spells/2619214-vampiric-touch
+Veil of Dusk|https://www.dndbeyond.com/spells/2294152-veil-of-dusk
+Vicious Mockery|https://www.dndbeyond.com/spells/2619216-vicious-mockery
+Vitriolic Sphere|https://www.dndbeyond.com/spells/2619219-vitriolic-sphere
+Void Strike|https://www.dndbeyond.com/spells/1731151-void-strike
+Vortex Warp|https://www.dndbeyond.com/spells/1239805-vortex-warp
+Wall of Fire|https://www.dndbeyond.com/spells/2619107-wall-of-fire
+Wall of Force|https://www.dndbeyond.com/spells/2619194-wall-of-force
+Wall of Ice|https://www.dndbeyond.com/spells/2619195-wall-of-ice
+Wall of Light|https://www.dndbeyond.com/spells/14616-wall-of-light
+Wall of Sand|https://www.dndbeyond.com/spells/2405-wall-of-sand
+Wall of Stone|https://www.dndbeyond.com/spells/2619200-wall-of-stone
+Wall of Thorns|https://www.dndbeyond.com/spells/2619202-wall-of-thorns
+Wall of Water|https://www.dndbeyond.com/spells/2406-wall-of-water
+Warding Bond|https://www.dndbeyond.com/spells/2619203-warding-bond
+Warding Wind|https://www.dndbeyond.com/spells/2407-warding-wind
+Warp Bolt|https://www.dndbeyond.com/spells/2221560-warp-bolt
+Warp Sense|https://www.dndbeyond.com/spells/2119579-warp-sense
+Water Breathing|https://www.dndbeyond.com/spells/2619205-water-breathing
+Water Walk|https://www.dndbeyond.com/spells/2619207-water-walk
+Watery Sphere|https://www.dndbeyond.com/spells/2408-watery-sphere
+Web|https://www.dndbeyond.com/spells/2619208-web
+Weird|https://www.dndbeyond.com/spells/2619210-weird
+Whirlwind|https://www.dndbeyond.com/spells/2409-whirlwind
+Wind Walk|https://www.dndbeyond.com/spells/2619211-wind-walk
+Wind Wall|https://www.dndbeyond.com/spells/2619212-wind-wall
+Wish|https://www.dndbeyond.com/spells/2619213-wish
+Witch Bolt|https://www.dndbeyond.com/spells/2619215-witch-bolt
+Wither and Bloom|https://www.dndbeyond.com/spells/1239806-wither-and-bloom
+Word of Misfortune|https://www.dndbeyond.com/spells/1731152-word-of-misfortune
+Word of Radiance|https://www.dndbeyond.com/spells/2619217-word-of-radiance
+Word of Recall|https://www.dndbeyond.com/spells/2619218-word-of-recall
+Wrack|https://www.dndbeyond.com/spells/2196503-wrack
+Wrath of Nature|https://www.dndbeyond.com/spells/14619-wrath-of-nature
+Wrathful Smite|https://www.dndbeyond.com/spells/2619220-wrathful-smite
+Wristpocket|https://www.dndbeyond.com/spells/416812-wristpocket
+Yolande's Regal Presence|https://www.dndbeyond.com/spells/2618842-yolandes-regal-presence
+Zephyr Strike|https://www.dndbeyond.com/spells/14622-zephyr-strike
+Zone of Truth|https://www.dndbeyond.com/spells/2619221-zone-of-truth
