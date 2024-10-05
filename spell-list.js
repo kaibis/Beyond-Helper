@@ -19,7 +19,7 @@ chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
                     const spellMap = new Map(spellData.map(spell => [spell.spell.toLowerCase(), spell.url])); // Create a map for quick lookup
 
                     // Reset
-                    spellList.innerHTML = ""; // clear list
+                    spellList.innerHTML = ""; // Clear list
 
                     // Populate the array with spell names and URLs, checking for duplicates and existence in JSON
                     spellNames.forEach((spellName) => {
@@ -51,6 +51,9 @@ chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
                         listItem.appendChild(link);
                         spellList.appendChild(listItem);
                     });
+
+                    // Store unique spells in local storage
+                    localStorage.setItem('spellList', JSON.stringify(uniqueSpells));
                 })
                 .catch(error => console.error("Error fetching spell data:", error));
         }

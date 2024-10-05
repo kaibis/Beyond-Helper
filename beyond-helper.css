@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px; /* Adjust margin as necessary */
     padding: 10px;
-    width: 250px; /* Adjust width as necessary */
+    width: calc(100% - 40px); /* Full width minus margins */
     background-color: #f9f9f9;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
 }
@@ -45,4 +45,150 @@ a {
 
 a:hover {
     text-decoration: underline; /* Underline on hover */
+}
+
+/* New styles for spell containers */
+.spell-container {
+    width: 600px; /* Full width */
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Space inside the container */
+    margin-bottom: 15px; /* Space between spell containers */
+    background-color: #ffffff; /* White background for spells */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s; /* Smooth transform on hover */
+}
+
+.spell-container:hover {
+    transform: scale(1.02); /* Slightly enlarge on hover */
+}
+
+.spell-container h3 {
+    font-size: 20px; /* Title size */
+    color: #d9534f; /* Title color */
+    margin-bottom: 10px; /* Space below the title */
+}
+
+.spell-container p {
+    line-height: 1.5; /* Improve readability */
+    color: #333; /* Darker text color for better contrast */
+}
+
+/* Optional styling for spell links */
+.spell-container a {
+    color: #28a745; /* Green color for spell links */
+    text-decoration: none;
+    font-weight: normal; /* Normal weight for spell links */
+}
+
+.spell-container a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+
+
+/* Styling for the spell statblock */
+.ddb-statblock {
+    width: 100%; /* Full width */
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Space inside the container */
+    background-color: #ffffff; /* White background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin-bottom: 20px; /* Space below each statblock */
+}
+
+
+/* Styling for the spell statblock */
+.ddb-statblock {
+    max-width: 600px; /* Set maximum width */
+    width: 100%; /* Full width until max is reached */
+    margin: 0 auto; /* Center the statblock */
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Space inside the container */
+    background-color: #ffffff; /* White background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin-bottom: 20px; /* Space below each statblock */
+}
+
+/* Grid layout for statblock items */
+.ddb-statblock-grid {
+    display: grid; /* Use CSS grid */
+    grid-template-columns: repeat(4, 1fr); /* Four columns */
+    grid-template-rows: repeat(2, auto); /* Two rows */
+    gap: 15px; /* Space between grid items */
+}
+
+/* Styling for each statblock item */
+.ddb-statblock-item {
+    display: flex; /* Flex layout for labels and values */
+    flex-direction: column; /* Stack label above value */
+    align-items: center; /* Center align items */
+    padding: 10px; /* Space inside each item */
+    border: 1px solid #f0f0f0; /* Light border for each item */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f9f9f9; /* Slightly gray background for items */
+}
+
+/* Label styles */
+.ddb-statblock-item-label {
+    font-weight: bold; /* Bold labels */
+    color: #333; /* Darker text for better contrast */
+    margin-bottom: 5px; /* Space below label */
+}
+
+/* Value styles */
+.ddb-statblock-item-value {
+    color: #555; /* Slightly lighter text for values */
+}
+
+/* Optional: Style for components and special characters */
+.component-asterisks {
+    font-style: italic; /* Italicize special characters */
+    color: #d9534f; /* Example color for emphasis */
+}
+
+/* Optional: Style for concentration */
+.i-concentration {
+    color: #d9534f; /* Example color for emphasis */
+}
+
+
+.image {
+    display: none; /* Hide the image div */
+}
+
+.available-for {
+    display: none; /* Hide the image div */
+}
+
+.spell-tags {
+    display: none; /* Hide the image div */
+}
+.spell-grid {
+    display: grid; /* Use grid display */
+    grid-template-columns: repeat(4, 1fr); /* Four columns */
+    grid-template-rows: repeat(auto-fill, minmax(300px, auto)); /* Rows auto-fill with a minimum height */
+    gap: 20px; /* Space between items */
+    max-width: 1200px; /* Optional max width for the grid */
+    margin: 0 auto; /* Center the grid */
+}
+
+.spell-container {
+    width: 100%; /* Ensure spell containers use full grid column width */
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Space inside the container */
+    background-color: #ffffff; /* White background for spells */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s; /* Smooth transform on hover */
+}
+
+.spell-container:hover {
+    transform: scale(1.02); /* Slightly enlarge on hover */
+}
+
+h3 {
+    text-transform: capitalize; /* Capitalize the first letter of each word */
 }
