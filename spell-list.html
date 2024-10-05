@@ -3,16 +3,28 @@
 <head>
   <title>Beyond Helper</title>
   <link rel="stylesheet" href="beyond-helper.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
 </head>
 <body>
   <h1>Beyond Helper</h1>
-  
-  <h2>Spell List</h2>
-  <a href="spellbook.html" target="_blank">Open as a spellbook</a>
-  <ul id="spellList"></ul>
+  <hr/>
+  <p><em>Your Character's spells all in one place</em></p>
 
+  <a href="spellbook.html" target="_blank">Open as a printable Spell Book</a>
+<br/><br/>
+<div class="spell-list-container">
+  <h4>Spell List</h4>
+  <ul id="spellList"></ul>
+</div>
+<br/><br/>
+  <button id="refreshButton">Refresh List</button>
    <!-- Link to external JavaScript file -->
    <script src="spell-list.js"></script>
    <script src="sidepanel.js"></script>
+
+   <div class="bottom-div">
+    <p>Made by Kaibis in her personal time, <br/> so if it saves you time, please  <br/> <a href="https://www.buymeacoffee.com/kaibis" target="_blank"><img src="bmc-button.png" height="40px"/></a> </p>
+    </div>
 </body>
 </html>

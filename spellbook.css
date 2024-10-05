@@ -1,0 +1,109 @@
+/* New styles for spell containers */
+.spell-container {
+   /* width: 800px; /* Full width */
+    /*border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 0 15px 0 15px; /* Space inside the container */
+    margin-bottom: 15px; /* Space between spell containers */
+    background-color: #ffffff; /* White background for spells */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s; /* Smooth transform on hover */
+    page-break-inside: avoid;
+    font-family: "Roboto Condensed",Roboto,Helvetica,sans-serif;
+    font-size: 1em;
+}
+
+
+.spell-container h3 {
+    font-size: 2.5em; /* Title size */
+    margin-bottom: 10px; /* Space below the title */
+    text-transform: capitalize; /* Capitalize the first letter of each word */
+    padding-top: 10px;
+}
+
+.spell-container p {
+    line-height: 1.5; /* Improve readability */
+    color: #333; /* Darker text color for better contrast */
+}
+
+
+/* Styling for the spell statblock */
+.ddb-statblock {
+    width: 95%; /* Full width */
+    border-radius: 5px; /* Rounded corners */
+    padding: 5px; /* Space inside the container */
+    margin-bottom: 20px; /* Space below each statblock */
+    display: flex; /* Flex layout for labels and values */
+    flex-direction: row;
+    display: grid; /* Use CSS grid */
+    grid-template-columns: repeat(4, 1fr); /* Four columns */
+    grid-template-rows: repeat(2, auto); /* Two rows */
+    gap: 15px; /* Space between grid items */
+    border-top: 5px solid orange; /*HERE*/
+    border-bottom: 5px solid orange; /*HERE*/
+}
+
+/* Styling for each statblock item */
+.ddb-statblock-item {
+    display: flex; /* Flex layout for labels and values */
+    flex-direction: column; /* Stack label above value */
+    align-items: center; /* Center align items */
+    /*border: 1px solid green; /*HERE*/
+    border-radius: 5px; /* Rounded corners */
+    padding: 1px;
+}
+
+/* Label styles */
+.ddb-statblock-item-label {
+    font-weight: bold; /* Bold labels */
+    color: #333; /* Darker text for better contrast */
+    margin-bottom: 5px; /* Space below label */
+    text-transform: uppercase;
+}
+
+/* Value styles */
+.ddb-statblock-item-value {
+    color: #555; /* Slightly lighter text for values */
+}
+
+
+
+
+.spell-grid {
+    display: grid; /* Use grid display */
+    grid-template-columns: repeat(4, 1fr); /* Four columns */
+    grid-template-rows: repeat(auto-fill, minmax(300px, auto)); /* Rows auto-fill with a minimum height */
+    gap: 20px; /* Space between items */
+    max-width: 1200px; /* Optional max width for the grid */
+    margin: 0 auto; /* Center the grid */
+}
+
+
+.spell-source {
+    text-align: right;
+    font-size: smaller;
+}
+
+
+/*Hide elements that are not wanted*/
+.image {
+    display: none; /* Hide the image div */
+}
+
+.available-for {
+    display: none; /* Hide the image div */
+}
+
+.spell-tags {
+    display: none; /* Hide the image div */
+}
+
+/*remove text decorations*/
+a {
+    color: black; /* Link color */
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+}

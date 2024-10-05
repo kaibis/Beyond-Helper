@@ -3,23 +3,25 @@
 <head>
   <title>Beyond Helper</title>
   <link rel="stylesheet" href="beyond-helper.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
 </head>
 <body>
   <h1>Beyond Helper</h1>
-  <p>This is the helper panel for D&D Beyond!</p>
-  <ul>
-      <p>This will create a spell list based on your character.</p>
-      <p>Step 1: Open your character in dndbeyond.</p>
-      <p>Step 2: Click on the Spell </p>
-      <p>Step 3: Click on the link below</p>
-      <br/>
-      <li><a href="spell-list.html">Spell List</a></li>
-<br/>
-      <p>How it works? The extension scrapes the page for every class tagged as a spell. Then it compares it to a list of spell names and URLs, before displaying accordingly.</p>
+  <hr/>
+  <p><em>A helper panel for D&D Beyond!</em></p>
 
-  </ul>
-  
+  <div class="helper-option">
+  <h2>Character Spell Book</h2>
+  <p>This will create a spell list based on your character.</p>
+  <ol style="padding-left:2em;">
+    <li>Open your character in <a href="https://www.dndbeyond.com/characters">dndbeyond/characters</a>.</li>
+    <li>Click on the SPELLS tab</li>
+    <li>Click here to <a href="spell-list.html">Extract the spells</a></li>
+    </ol>
+  </div>
   <script src="sidepanel.js"></script>
  <!-- <script src="beyond-helper.js"></script> -->
-</body>
+
+ </body>
 </html>

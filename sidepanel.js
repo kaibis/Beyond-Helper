@@ -33,4 +33,6 @@ chrome.runtime.sendMessage({ action: 'getTabUrl' }, (response) => {
     }
   }
   
-
+  document.getElementById('refreshButton').addEventListener('click', function() {
+    location.reload();
+  });
