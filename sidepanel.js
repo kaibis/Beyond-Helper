@@ -15,15 +15,22 @@ chrome.runtime.sendMessage({ action: 'getTabUrl' }, (response) => {
     const contentDiv = document.getElementById('content');
   
     if (url.startsWith("https://www.dndbeyond.com")) {
-      contentDiv.innerHTML = `
-        <h1>DnDBeyond Helper</h1>
-        <p>This is the helper panel for D&D Beyond!</p>
-      `;
+      // Load DnDBeyond helper content
+      fetch('beyond-helper.html')
+        .then(response => response.text())
+        .then(data => {
+          contentDiv.innerHTML = data;
+        })
+        .catch(error => console.error('Error loading DnDBeyond content:', error));
     } else {
-      contentDiv.innerHTML = `
-        <h1>Helper Not Available</h1>
-        <p>This feature is only available on D&D Beyond.</p>
-      `;
+      // Load "Helper Not Available" content
+      fetch('beyond-helper-not-available.html')
+        .then(response => response.text())
+        .then(data => {
+          contentDiv.innerHTML = data;
+        })
+        .catch(error => console.error('Error loading Helper Not Available content:', error));
     }
   }
   
+
